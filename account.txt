@@ -1,0 +1,5 @@
+email: weedzones.ca
+pass: blazeitnow
+
+github: weedzones
+password: blazeitnow1
